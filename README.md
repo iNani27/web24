@@ -8,3 +8,4 @@ https://inani27.github.io/web24/index_galery.html
 
 Une liste de lien utile à l'apprentissage de la souris :
 https://inani27.github.io/web24/mouse.html
+https://inani27.github.io/web24/mouse_table.html
